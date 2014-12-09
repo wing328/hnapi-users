@@ -1,0 +1,2 @@
+# Algolia API Snippets
+
