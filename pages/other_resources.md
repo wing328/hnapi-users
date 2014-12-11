@@ -9,6 +9,14 @@ Please add any good examples you find. Feel free to add your own!
 |---|---|---|---|
 |https://github.com/infinitus/hnrb|Firebase|ruby|HN API ruby gem
 |https://github.com/O-I/hn_api|Firebase|ruby|HN API ruby gem
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|ruby|HN API ruby gem with sample code
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|Python|HN API Python module with sample code
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|PHP|HN API PHP library with sample code
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|Java|HN API Java library with sample code
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|Android|HN API Android library with sample code
+|http://restunited.com/releases/386450211503867527/wrappers|Firebase|C#|HN API C# library with sample code
+
+
 
 
 ## Sample Code
